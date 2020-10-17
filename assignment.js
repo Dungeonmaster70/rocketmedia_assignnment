@@ -1,3 +1,5 @@
+//submitted by -Piyush Chauhan
+
 let num= Number(prompt()); //takes the number of socks
 
 let sock = prompt(); //takes color's  string seperated by space  
